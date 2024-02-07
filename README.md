@@ -1,2 +1,2 @@
 # Client-Server-Communication
-As a part my undergraduate course my instructor asked me to create a client server model using FPT protocol 
+As a part my undergraduate course my instructor asked me to create a client server model using FPT protocol. FTP (File Transfer Protocol) is a standard network protocol used for the transfer of files from one host to another over a TCP-based network, such as the Internet. FTP works by opening two connections that link the computers trying to communicate with each other.
